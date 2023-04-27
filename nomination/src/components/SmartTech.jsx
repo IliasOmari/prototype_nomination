@@ -1,7 +1,12 @@
 import React from "react";
+import Project from "./Project";
 
 const SmartTech = () => {
-  return <div>SmartTech</div>;
+  return(
+    <div className="Projects">
+    <Project />
+  </div>
+  )
 };
 
 export default SmartTech;

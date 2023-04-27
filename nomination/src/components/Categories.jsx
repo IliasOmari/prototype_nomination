@@ -1,8 +1,9 @@
 import React from "react";
-import Motion from "./Motion";
 import WebApp from "./WebApp";
 import SmartTech from "./SmartTech";
 import Reality from "./Reality";
+import Motion from "./Motion";
+import "./categories.modules.css";
 
 const Categories = () => {
   return (
